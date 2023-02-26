@@ -1,0 +1,8 @@
+variable declare.
+variable type.
+variable name conversion.
+mathematical operation.
+mathematical shorthand.
+string concatenation.
+type conversion parseInt,parseFloat.
+toFixed and remainder.
